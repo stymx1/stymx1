@@ -35,8 +35,8 @@ https://github.com/stymx1/team-task-manager
 ### Connect with me
 
 - GitHub: https://github.com/stymx1
-- LinkedIn: (Add your LinkedIn URL here)
-- Email: (Add your email here)
+- LinkedIn: https://www.linkedin.com/in/satyam-singh-chauhan-37129224a/
+- Email: chauhansatyam0008@gmail.com
 
 ---
 Always learning, always building.
